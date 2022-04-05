@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://matheusafd.github.io/portfolio/" target="_blank">Github</a>
+https://matheusafd.github.io/portfolio/
 
 <!--
 **MatheusAFD/MatheusAFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
