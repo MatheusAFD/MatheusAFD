@@ -5,7 +5,7 @@ Front-end Developer
 -------------------
 
 * 🌍  I'm based in Fortaleza - Ceará
-* 🖥️  See my portfolio at [MyPortfolio](http://https://matheusafd.github.io/portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://matheusafd.github.io/portfolio/)
 * ✉️  You can contact me at [matheus.daf@outlook.com](mailto:matheus.daf@outlook.com)
 * 🧠  I'm learning React.js | TypeScript | Tailwind
 
