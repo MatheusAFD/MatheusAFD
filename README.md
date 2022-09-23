@@ -7,7 +7,7 @@ Front-end Developer
 * 🌍  I'm based in Fortaleza - Ceará
 * 🖥️  See my portfolio at [MyPortfolio](https://matheusaraujo.vercel.app/)
 * ✉️  You can contact me at [matheus.daf@outlook.com](mailto:matheus.daf@outlook.com)
-* 🧠  I'm learning React.js | TypeScript | Tailwind
+* 🧠  I'm learning Next.js | TypeScript | Material UI | Radix UI
 
 ### Skills
 
