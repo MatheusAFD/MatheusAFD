@@ -11,7 +11,6 @@
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,react,ts,js,git,nodejs,express,prisma,sqlite,postgres,graphql,apollo,tailwind,sass,styledcomponents,php,laravel)
 
-### Badges
 
 <b>My GitHub Stats</b>
 
