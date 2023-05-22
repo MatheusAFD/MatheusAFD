@@ -1,15 +1,16 @@
+
 # Hi 👋 My name is Matheus Araújo
 
 ## Front-end Developer
 
-- 🌍  I'm based in Fortaleza - Ceará
-- 🖥️  See my portfolio at [MyPortfolio](https://matheusaraujo.vercel.app/)
-- ✉️  You can contact me at [matheus.daf@outlook.com](mailto:matheus.daf@outlook.com)
-- 🧠  I'm learning Next.js | TypeScript | Chakra UI | Radix UI
+- 🌍  I'm based in Fortaleza - Ceará
+- 🖥️  See my portfolio at [MyPortfolio](https://matheusaraujo.vercel.app/)
+- ✉️  You can contact me at [matheus.daf@outlook.com](mailto:matheus.daf@outlook.com)
+- 🧠  I'm learning Micro Frontend | Automated Testing | Mobile Development | UX/UI Design
 
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,react,ts,js,git,nodejs,express,prisma,sqlite,postgres,graphql,apollo,tailwind,sass,styledcomponents,php,laravel)
+![My Skills](https://skillicons.dev/icons?i=react,next,ts,nodejs,graphql,apollo,express,prisma,sqlite,postgres,git,linux,docker,figma,tailwind,sass,styledcomponents,php,laravel,html,css,js)
 
 
 <b>My GitHub Stats</b>
