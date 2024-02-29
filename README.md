@@ -10,7 +10,7 @@
 
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=react,next,ts,nodejs,graphql,apollo,express,prisma,sqlite,postgres,git,linux,docker,figma,tailwind,sass,styledcomponents,php,laravel,html,css,js)
+![My Skills]([https://skillicons.dev/icons?i=react,next,ts,nodejs,graphql,apollo,express,prisma,sqlite,postgres,git,linux,docker,figma,tailwind,sass,styledcomponents,php,laravel,html,css,js](https://skillicons.dev/icons?i=react,next,ts,nodejs,cypress,jest,graphql,apollo,nestjs,prisma,postgres,sqlite,express,git,linux,docker,figma,tailwind,sass,styledcomponents,php,laravel,html,css,js&perline=10))
 
 
 <b>My GitHub Stats</b>
